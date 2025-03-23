@@ -77,5 +77,5 @@ nb plugin install nonebot-plugin-bfvplayerlist
 | playerlist | 无 | 否 | 群聊和私聊 | 玩家列表 [服务器名]  |
 ### 效果图
 
-<img src="https://github.com/LLbuxudong/nonebot-plugin-bfvplayerlistimage.png" width="500" alt="Ciallo">
+<img src="https://github.com/LLbuxudong/nonebot-plugin-bfvplayerlist/blob/master/image.png" width="500" alt="Ciallo">
 
