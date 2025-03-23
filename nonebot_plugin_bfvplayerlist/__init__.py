@@ -10,6 +10,7 @@ from jinja2 import Environment, FileSystemLoader
 import os
 import base64
 from nonebot.adapters import Bot
+require("nonebot_plugin_htmlrender")
 from nonebot_plugin_htmlrender import html_to_pic
 from nonebot.plugin import PluginMetadata
 import time
