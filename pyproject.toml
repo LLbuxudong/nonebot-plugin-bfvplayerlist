@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "nonebot-plugin-bfvplayerlist"
-version = "0.1.0"
+version = "0.1.2"
 description = "A onebot plugin for querying bfv server players"
 authors = ["llbuxudong 3513392931@qq.com"]
 license = "MIT"
