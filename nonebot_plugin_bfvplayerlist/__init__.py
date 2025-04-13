@@ -15,6 +15,18 @@ from nonebot_plugin_htmlrender import html_to_pic
 from nonebot.plugin import PluginMetadata
 import time
 
+from nonebot.plugin import PluginMetadata
+
+
+__plugin_meta__ = PluginMetadata(
+    name="bfvplayerlist",
+    description="查询bfv服务器玩家列表",
+    usage="bfvplayerlist <服务器名称>",
+    type="application",
+    homepage="https://github.com/LLbuxudong/nonebot-plugin-bfvplayerlist",
+    supported_adapters={"~onebot.v11"},
+)
+
 playerlist = on_command("playerlist", aliases={"玩家列表"}, priority=5, block=True)
 
 # 异步请求 JSON 数据
